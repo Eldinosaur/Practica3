@@ -14,7 +14,7 @@ class FragmentActivity : AppCompatActivity() {
         binding = ActivityFragmentBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        binding.btnFragment1.setOnClickListener{
+        /*binding.btnFragment1.setOnClickListener{
             fragment  = StaticFragment()
             addFragment()
         }
@@ -22,14 +22,14 @@ class FragmentActivity : AppCompatActivity() {
         binding.btnFragment.setOnClickListener{
             fragment  = StaticFragment()
             addFragment()
-        }
+        }*/
     }
 
-    fun addFragment(){
+    /*fun addFragment(){
         fragment?.let{
             supportFragmentManager.beginTransaction()
                 .replace(binding.container.id.it)
                 .commit()
         }
-    }
+    }*/
 }
