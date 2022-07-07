@@ -1,9 +1,9 @@
-package dev.eldinosaur.practica3
+package com.example.apppractica3
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.activity.viewModels
-import dev.eldinosaur.practica3.databinding.ActivityMainBinding
+import com.example.apppractica3.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding : ActivityMainBinding

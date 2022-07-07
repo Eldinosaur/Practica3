@@ -1,9 +1,9 @@
-package dev.eldinosaur.practica3
+package com.example.apppractica3
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.fragment.app.Fragment
-import dev.eldinosaur.practica3.databinding.ActivityFragmentBinding
+import com.example.apppractica3.databinding.ActivityFragmentBinding
 
 class FragmentActivity : AppCompatActivity() {
     private lateinit var binding : ActivityFragmentBinding

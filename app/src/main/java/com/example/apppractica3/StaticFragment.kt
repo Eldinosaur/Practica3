@@ -1,4 +1,4 @@
-package dev.eldinosaur.practica3
+package com.example.apppractica3
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -6,7 +6,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.activityViewModels
-import dev.eldinosaur.practica3.databinding.FragmentStaticBinding
+import com.example.apppractica3.databinding.FragmentStaticBinding
 
 class StaticFragment : Fragment() {
     private lateinit var  binding: FragmentStaticBinding

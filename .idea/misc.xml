@@ -3,9 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/appMovil/Practica3/app/src/main/res/layout/activity_fragment.xml" value="0.19166666666666668" />
-        <entry key="..\:/appMovil/Practica3/app/src/main/res/layout/activity_main.xml" value="0.5" />
-        <entry key="..\:/appMovil/Practica3/app/src/main/res/layout/fragment_static.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/abran/AppMovil/appPractica3/app/src/main/res/layout/activity_fragment.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/abran/AppMovil/appPractica3/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Users/abran/AppMovil/appPractica3/app/src/main/res/layout/fragment_static.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/abran/AppMovil/appPractica3/app/src/main/res/layout/fragment_tramite.xml" value="0.12314814814814815" />
       </map>
     </option>
   </component>
